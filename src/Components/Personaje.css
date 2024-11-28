@@ -1,0 +1,31 @@
+.character {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.character-name {
+  font-size: 2.5vw;
+  font-style: italic;
+}
+
+.character-img {
+  height: 500px;
+  object-fit: contain;
+  width: auto;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.stat {
+  text-align: center;
+  font-size: 1.5vw;
+}
+
+.stat label {
+  font-size: 1.5vw;
+}
